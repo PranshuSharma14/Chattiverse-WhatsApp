@@ -2,7 +2,7 @@
  
 This project replicates key WhatsApp features with real-time messaging, secure authentication, responsive dark UI, and integrated voice/video calling.
 
-> 🚀 **The project will be deployed and live by 20th August 2025. Stay tuned for the live demo link.**
+
 
 ---
 
